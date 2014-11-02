@@ -1,0 +1,23 @@
+DataScienceSet <- c("Daniel Manchon",
+                    "Joan Capdevila",
+                    "Jose Alejandro Cordero Rama",
+                    "Ivan Fernandez Perea",
+                    "Jorge Cimentada",
+                    "Iñigo Lopez",
+                    "Jose Maria Veganzones",
+                    "Tiago Henriques",
+                    "Noel Torres-Caballe", 
+                    "Pere Claver Llimona",
+                    "Samuel Garcia Companys",
+                    "Radina Matic",
+                    "Antonio Clavelli",
+                    "Luis Miguel Casado")
+
+MLRugBcnSet <- c("Roc Alabern",
+                 "Argimiro Arratia",
+                 "Laura Marques",
+                 "Alex Fer Avellaneda",
+                 "Francois Delaunay",
+                 "Jordi Puigdellivol",
+                 "Christopher Bonnett",
+                 "Felipe Mateos")
